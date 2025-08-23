@@ -1,13 +1,15 @@
 ## YeaJi
 <div align="center">
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeaJi5&utm_content=farm">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeaJi5&utm_content=line">
   <img
-    src="https://render.gitanimals.org/farms/YeaJi5"
-    width="600"
+    src="https://render.gitanimals.org/lines/YeaJi5"
+    width="1000"
     height="300"
   />
 </a>
+  
 
 <br/>
 
