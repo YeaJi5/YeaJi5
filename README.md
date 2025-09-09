@@ -6,8 +6,7 @@
   src="https://render.gitanimals.org/farms/YeaJi5"
   width="600"
   height="300"
-/>
-</a>
+/></a>
 
 <br/>
 
