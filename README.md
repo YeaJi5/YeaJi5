@@ -10,8 +10,8 @@
 
 <br/>
 
-<div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dalpiecel7)](https://solved.ac/dalpiecel7)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
 </div>
 
