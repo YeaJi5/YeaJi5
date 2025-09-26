@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeaji's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeaji's%20Github&fontSize=60" />
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeaJi5&utm_content=farm">
 <img
