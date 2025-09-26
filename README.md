@@ -10,10 +10,13 @@
 
 <br/>
 
-<div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dalpiecel7)](https://solved.ac/dalpiecel7)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dalpiecel7&theme=warm)
-</div>
+<p align="center">
+  <a href="https://solved.ac/dalpiecel7">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dalpiecel7" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=dalpiecel7&theme=warm" />
+</p>
+
 
 </div>
 
