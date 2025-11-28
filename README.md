@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://solved.ac/dalpiecel7">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=dalpiecel7" />
